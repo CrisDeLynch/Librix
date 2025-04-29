@@ -23,8 +23,7 @@ La idea es ofrecer una experiencia sencilla, bonita y accesible para quienes ama
 
 ### Frontend
 - React
-- Bootstrap
-- CSS personalizado
+- Tailwind
 
 ### Backend
 - Supabase (PostgreSQL, autenticación, almacenamiento)
